@@ -9,7 +9,7 @@ int main() {
 	std::system("rm -rf ~/pawn-compiler*");
 	
 	// end script
-	std::system("clear && sleep 3 && echo -e '\e[32mUtilize o comando: \e[97mpawncc <arquivo>'");
+	std::system("clear && sleep 3 && echo -e '\e[32mUtilize o comando: \e[97mmpawncc <arquivo>'");
 	std::system("echo -e '\e[32mCreditos por esse metodo: \e[97mBeerl - DeviceBlack'");
 	std::system("rm -rf ~/installer* ~/pawn-compiler");
 	return 0;
