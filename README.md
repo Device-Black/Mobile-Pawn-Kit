@@ -5,6 +5,6 @@ Um kit para pawn no mobile! (MBK)
 depois não venha reclamar!
 
 <b>comandos:</b>
-```
+```bash
 git clone https://github.com/Device-Black/Mobile-Pawn-Kit.git && chmod +x Mobile-Pawn-Kit/installer && ./Mobile-Pawn-Kit/installer
 ```
