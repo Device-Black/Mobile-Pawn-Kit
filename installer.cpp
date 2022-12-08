@@ -4,7 +4,7 @@ int main() {
 	// install compiler
 	std::system("wget -q https://device-black.github.io/pawn-compiler.tar.gz -P ~/");
 	std::system("tar -xf pawn-compiler.tar.gz && sudo chmod +x ~/pawn-compiler/*");
-	std::system("echo 'alias pawncc=\'/pawncc/mpk_program' >> ~/.pwncmd && source ~/.pwncmd");
+	std::system("echo 'alias mpawncc=\'/pawncc/mpk_program' >> ~/.pwncmd && source ~/.pwncmd");
 	std::system("mkdir /pawncc && mv ~/pawn-compiler/* /pawncc/");
 	std::system("rm -rf ~/pawn-compiler*");
 	
