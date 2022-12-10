@@ -16,3 +16,6 @@ sudo apt install git -y &&
 git clone https://github.com/device-black/Mobile-Pawn-Kit.git &&
 chmod +x Mobile-Pawn-Kit/installer && ./Mobile-Pawn-Kit/installer
 ```
+
+©DeviceBlack & ©Beerl
+<a href="https://discord.io/PawnTeam">Pawn♦️Team</a>
