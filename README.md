@@ -4,11 +4,11 @@ Um kit para pawn no mobile! (MPK)
 ### Nao disponibilizado
 
 <b>Como instalar:</b><br/>
-Baixe esse app: <a href="">UserLAnd</a><br />
-Selecione Ubuntu: <img src="images/tuto_01.png" /><br />
-Preencha os dados: <img src="images/tuto_02.png" /><br />
-Selecione SSH: <img src="images/tuto_03.png" /><br />
-Insira sua senha: <img src="images/tuto_04.png" /><br />
+Baixe esse app: <a href="https://www.mediafire.com/file/oig8r0gzw15jg0y/UserLAnd_2.8.3.apk/file">UserLAnd</a><br />
+Selecione Ubuntu: <img src="https://github.com/Device-Black/Mobile-Pawn-Kit/raw/DeviceBlack/images/imagem_01.jpg" /><br />
+Preencha os dados: <img src="https://github.com/Device-Black/Mobile-Pawn-Kit/raw/DeviceBlack/images/imagem_02.jpg" /><br />
+Selecione SSH: <img src="https://github.com/Device-Black/Mobile-Pawn-Kit/raw/DeviceBlack/images/imagem_03.jpg" /><br />
+Insira sua senha: <img src="https://github.com/Device-Black/Mobile-Pawn-Kit/raw/DeviceBlack/images/imagem_04.jpg" /><br />
 
 cole esse comando:
 ```bash
