@@ -1,5 +1,5 @@
 ## Mobile Pawn Kit - v1.0-Beta
-Um kit para pawn no mobile! (MBK)
+Um kit para pawn no mobile! (MPK)
 
 <b>Como instalar:</b><br/>
 Baixe esse app: <a href="">UserLAnd</a><br />
@@ -16,4 +16,4 @@ sudo apt install git -y &&
 git clone https://github.com/device-black/Mobile-Pawn-Kit.git &&
 chmod +x Mobile-Pawn-Kit/installer && ./Mobile-Pawn-Kit/installer
 ```
-<a href="https://discord.io/PawnTeam">Pawn♦️Team</a>
+<a href="https://discord.io/PawnTeam">#Pawn♦️Team</a>
