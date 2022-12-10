@@ -17,5 +17,5 @@ git clone https://github.com/device-black/Mobile-Pawn-Kit.git &&
 chmod +x Mobile-Pawn-Kit/installer && ./Mobile-Pawn-Kit/installer
 ```
 
-©DeviceBlack & ©Beerl
+©DeviceBlack & ©Beerl<br />
 <a href="https://discord.io/PawnTeam">Pawn♦️Team</a>
