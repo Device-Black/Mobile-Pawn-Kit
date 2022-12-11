@@ -16,7 +16,8 @@ Preencha os dados:
 Selecione SSH:
 ![SSH Select](https://github.com/Device-Black/Mobile-Pawn-Kit/raw/DeviceBlack/images/imagem_03.jpg)
 
-Insira sua senha: ![Password Input](https://github.com/Device-Black/Mobile-Pawn-Kit/raw/DeviceBlack/images/imagem_04.jpg)
+Insira sua senha:
+![Password Input](https://github.com/Device-Black/Mobile-Pawn-Kit/raw/DeviceBlack/images/imagem_04.jpg)
 
 cole esse comando:
 
