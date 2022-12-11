@@ -4,7 +4,7 @@ Um kit para pawn no mobile! (MPK) <br>
 **Suporte apenas entre os Android 5 e 10** <br>
 **Ainda não foi disponibilizado publicamente**
 
-[![Lista de repositórios Stargazers para h4570/tyra](https://reporoster.com/stars/h4570/tyra)](https://github.com/h4570/tyra/stargazers)
+[![Lista de repositórios Stargazers para Device-Black/Mobile-Pawn-Kit](https://reporoster.com/stars/Device-Black/Mobile-Pawn-Kit)](https://github.com/Device-Black/Mobile-Pawn-Kit/stargazers)
 
 ## Instalando
 
