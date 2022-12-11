@@ -25,5 +25,11 @@ git clone https://github.com/device-black/Mobile-Pawn-Kit.git &&
 chmod +x Mobile-Pawn-Kit/installer && ./Mobile-Pawn-Kit/installer
 ```
 
+## Duvidas/Problemas
+
+Acesse a [wiki](ggg) para saber como usar os comandos
+
+Encontrou algum erro? reporte-o [aqui](https://github.com/Device-Black/Mobile-Pawn-Kit/issues)
+
 [#Pawn♦️Team](https://discord.io/PawnTeam)
 <a href="https://discord.io/PawnTeam"><img align="right" alt="PawnTeam - Discord" width="20px" src="https://img.icons8.com/color/512/discord--v2.png" /></a>
