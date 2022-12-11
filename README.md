@@ -4,6 +4,8 @@ Um kit para pawn no mobile! (MPK) <br>
 **Suporte apenas entre os Android 5 e 10** <br>
 **Ainda não foi disponibilizado publicamente**
 
+[![Lista de repositórios Stargazers para h4570/tyra](https://reporoster.com/stars/h4570/tyra)](https://github.com/h4570/tyra/stargazers)
+
 ## Instalando
 
 Baixe e instale esse aplicativo: [UserLAnd](https://www.mediafire.com/file/oig8r0gzw15jg0y/UserLAnd_2.8.3.apk/file)
