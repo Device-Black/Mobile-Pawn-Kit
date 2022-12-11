@@ -27,9 +27,9 @@ chmod +x Mobile-Pawn-Kit/installer && ./Mobile-Pawn-Kit/installer
 
 ## Duvidas/Problemas
 
-Acesse a [wiki](ggg) para saber como usar os comandos, 
+Acesse a [wiki](https://github.com/Device-Black/Mobile-Pawn-Kit/wiki) para saber como usar os comandos, 
 caso encontre algum erro, reporte-o 
-[aqui](https://github.com/Device-Black/Mobile-Pawn-Kit/issues)
+[aqui](https://github.com/Device-Black/Mobile-Pawn-Kit/issues).
 
 <hr>
 
