@@ -10,7 +10,8 @@ Baixe e instale esse aplicativo: [UserLAnd](https://www.mediafire.com/file/oig8r
 Selenecione Ubuntu:
 ![Ubuntu Select](https://github.com/Device-Black/Mobile-Pawn-Kit/raw/DeviceBlack/images/imagem_01.jpg)
 
-Preencha os dados: ![Info](https://github.com/Device-Black/Mobile-Pawn-Kit/raw/DeviceBlack/images/imagem_02.jpg)
+Preencha os dados:
+![Info](https://github.com/Device-Black/Mobile-Pawn-Kit/raw/DeviceBlack/images/imagem_02.jpg)
 
 Selecione SSH: ![SSH Select](https://github.com/Device-Black/Mobile-Pawn-Kit/raw/DeviceBlack/images/imagem_03.jpg)
 
