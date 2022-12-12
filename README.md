@@ -29,7 +29,7 @@ sudo apt upgrade -y &&
 sudo apt install git -y &&
 git clone https://github.com/device-black/Mobile-Pawn-Kit.git &&
 chmod +x Mobile-Pawn-Kit/installer && ./Mobile-Pawn-Kit/installer &&
-rm -rf Mobile-Pawn-Kit
+rm -rf Mobile-Pawn-Kit && ln -s /host-rootfs/sdcard/ storage
 ```
 
 ## Duvidas/Problemas
