@@ -10,7 +10,7 @@ Um kit para pawn no mobile! (MPK) <br>
 
 Baixe e instale esse aplicativo: [UserLAnd](https://github.com/Device-Black/Mobile-Pawn-Kit)
 
-Selenecione Ubuntu:
+Selecione Ubuntu:
 ![Ubuntu Select](https://github.com/Device-Black/Mobile-Pawn-Kit/raw/DeviceBlack/images/imagem_01.jpg)
 
 Preencha os dados:
