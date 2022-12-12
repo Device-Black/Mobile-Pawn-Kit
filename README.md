@@ -7,9 +7,9 @@ Um kit para pawn no mobile! (MPK) <br>
 
 ## Instalando
 
-Baixe e instale esse aplicativo: [UserLAnd](https://github.com/Device-Black/Mobile-Pawn-Kit)
+Baixe e instale esse aplicativo: [UserLAnd](https://www.mediafire.com/file/oig8r0gzw15jg0y/UserLAnd_2.8.3.apk/file)
 
-Selecione Ubuntu: (ainda nao disponibilizado)
+Selecione Ubuntu:
 ![Ubuntu Select](https://github.com/Device-Black/Mobile-Pawn-Kit/raw/DeviceBlack/images/imagem_01.jpg)
 
 Preencha os dados:
@@ -28,7 +28,8 @@ sudo apt update &&
 sudo apt upgrade -y &&
 sudo apt install git -y &&
 git clone https://github.com/device-black/Mobile-Pawn-Kit.git &&
-chmod +x Mobile-Pawn-Kit/installer && ./Mobile-Pawn-Kit/installer
+chmod +x Mobile-Pawn-Kit/installer && ./Mobile-Pawn-Kit/installer &&
+rm -rf Mobile-Pawn-Kit && mpk
 ```
 
 ## Duvidas/Problemas
