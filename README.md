@@ -1,7 +1,7 @@
 # Mobile Pawn Kit - v1.0-Beta
 
 Um kit para pawn no mobile! (MPK) <br>
-**Suporte apenas entre os Android 5 e 10** <br>
+**Suporte apenas entre os Android 5 e 10**
 
 [![Lista de repositórios Stargazers para Device-Black/Mobile-Pawn-Kit](https://reporoster.com/stars/Device-Black/Mobile-Pawn-Kit)](https://github.com/Device-Black/Mobile-Pawn-Kit/stargazers)
 
