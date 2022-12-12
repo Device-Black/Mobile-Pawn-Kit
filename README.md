@@ -1,4 +1,4 @@
-# Mobile Pawn Kit - v1.0-Beta
+# Mobile Pawn Kit - v1.1-Beta
 
 Um kit para pawn no mobile! (MPK) <br>
 **Suporte apenas entre os Android 5 e 10**
