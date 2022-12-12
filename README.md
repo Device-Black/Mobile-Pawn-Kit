@@ -2,7 +2,6 @@
 
 Um kit para pawn no mobile! (MPK) <br>
 **Suporte apenas entre os Android 5 e 10** <br>
-**Ainda não foi disponibilizado publicamente**
 
 [![Lista de repositórios Stargazers para Device-Black/Mobile-Pawn-Kit](https://reporoster.com/stars/Device-Black/Mobile-Pawn-Kit)](https://github.com/Device-Black/Mobile-Pawn-Kit/stargazers)
 
@@ -10,7 +9,7 @@ Um kit para pawn no mobile! (MPK) <br>
 
 Baixe e instale esse aplicativo: [UserLAnd](https://github.com/Device-Black/Mobile-Pawn-Kit)
 
-Selecione Ubuntu:
+Selecione Ubuntu: (ainda nao disponibilizado)
 ![Ubuntu Select](https://github.com/Device-Black/Mobile-Pawn-Kit/raw/DeviceBlack/images/imagem_01.jpg)
 
 Preencha os dados:
