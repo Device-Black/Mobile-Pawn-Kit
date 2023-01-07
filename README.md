@@ -13,12 +13,15 @@ Selecione Ubuntu:
 ![Ubuntu Select](https://github.com/Device-Black/Mobile-Pawn-Kit/raw/DeviceBlack/images/imagem_01.jpg)
 
 Preencha os dados:
+
 ![Info](https://github.com/Device-Black/Mobile-Pawn-Kit/raw/DeviceBlack/images/imagem_02.jpg)
 
 Selecione SSH:
+
 ![SSH Select](https://github.com/Device-Black/Mobile-Pawn-Kit/raw/DeviceBlack/images/imagem_03.jpg)
 
 Insira sua senha:
+
 ![Password Input](https://github.com/Device-Black/Mobile-Pawn-Kit/raw/DeviceBlack/images/imagem_04.jpg)
 
 cole esse comando:
